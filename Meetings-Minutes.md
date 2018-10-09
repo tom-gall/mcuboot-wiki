@@ -1,1 +1,1 @@
-[[Multiple image support meeting minutes]]
+[[Multiple image support]]
