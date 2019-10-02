@@ -1,3 +1,5 @@
+This was tested with MCUBoot v1.3.1 and Zephyr v2.0.0!
+
 To enable MCUBoot (and mcumgr) to have the secondary slot stored in the SPI flash the following config changes have to applied:
 
 For MCUBoot:
