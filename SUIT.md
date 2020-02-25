@@ -19,7 +19,7 @@ about the MCUboot structures and data.  This document will be
 primarily concerned with the `image_header`, the image itself, and the
 TLV payload that follows the image.
 
-The data contained in the image header, and the the TLV(s) that
+The data contained in the image header, and the TLV(s) that
 follow the image represent the same information that would be encoded
 in a SUIT manifest.
 
